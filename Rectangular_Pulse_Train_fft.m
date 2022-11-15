@@ -1,4 +1,6 @@
-%% Rectangular Pulse 
+%% --Rectangular Pulse fft --
+%    -Plotting Power Spectrum- 
+
 
 %% ---Rectangular Pulse Train--- 
 
